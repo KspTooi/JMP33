@@ -6,7 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="jmp33" />
+        <module name="jmp33-entities" />
+        <module name="jmp33-documents" />
+        <module name="jmp33-views" />
+        <module name="jmp33-eureka" />
+        <module name="jmp33-domcategory" />
       </profile>
     </annotationProcessing>
   </component>
